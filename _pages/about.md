@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # About me
 I am a four-year Ph.D. student at The Chinese University of Hong Kong, Shenzhen, supervised by Prof.Xiang Wan and Prof.Tsung-Hui Chang. 
 Before that, I received a master’s degree in computer science and technology from Harbin Institute of Technology, supervised by Prof.Yi Guan.
