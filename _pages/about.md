@@ -22,8 +22,16 @@ summarization, named entity recognition, and natural language processing
 News
 ======
 * two papers are accepted to ACL 2023
+* two papers are accepted to AAAI 2023
+* three papers are accepted to NAACL 2022
+* two papers are accepted to ACL 2022
+* one paper are accepted to ACL 2022
 
 
 Publications
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Improving Radiology Summarization with Radiograph and Anatomy Prompts
+Jinpeng Hu, Zhihong Chen, Yang Liu, Xiang Wan and Tsung-Hui Chang
+Findings of ACL 2023
+[pdf](https://arxiv.org/pdf/2210.08303.pdf)
+
