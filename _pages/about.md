@@ -17,7 +17,7 @@ Before that, I received a master’s degree in computer science and technology f
 
 Research Interests
 ======
-summarization, named entity recognition, and natural language processing
+Summarization, Named Entity Recognition, and Natural Language Processing
 
 News
 ======
