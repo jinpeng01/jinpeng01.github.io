@@ -46,7 +46,7 @@ Publications
 
 * Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training [[pdf](https://arxiv.org/pdf/2209.07098)] <br>
   Zhihong Chen, Yuhao Du, **Jinpeng Hu**, Yang Liu, Guanbin Li, Xiang Wan and Tsung-Hui Chang <br>
-  NAACL 2022 
+  MICCAI 2022 
 
 * A Label-Aware Autoregressive Framework for Cross-Domain NER [[pdf](https://aclanthology.org/2022.findings-naacl.171.pdf)] <br>
   **Jinpeng Hu**, He Zhao, Dan Guo, Xiang Wan and Tsung-Hui Chang <br>
