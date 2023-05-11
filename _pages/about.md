@@ -34,12 +34,18 @@ Publications
   **Jinpeng Hu**, Zhihong Chen, Yang Liu, Xiang Wan and Tsung-Hui Chang <br>
   Findings of ACL 2023 
 
-[//]: # (* A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER-camera-ready  <br>)
+* Improving Grammatical Error Correction with Multimodal Feature Integration. [Coming soon] <br>
+  Tao Fang, **Jinpeng Hu**, Derek F. Wong, Xiang Wan, Lidia S. Chao and Tsung-Hui Chang <br>
+  Findings of ACL 2023 
 
-[//]: # (  **Jinpeng Hu**, DanDan Guo, Yang Liu1, Zhuo Li, Zhihong Chen, Xiang Wan, Tsung-Hui Chang <br>)
+* A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER-camera-ready [Coming soon] <br>
+  **Jinpeng Hu**, DanDan Guo, Yang Liu1, Zhuo Li, Zhihong Chen, Xiang Wan, Tsung-Hui Chang <br>
+  AAAI 2023
 
-[//]: # (  AAAI 2023)
-
+* EASAL: Entity-Aware Subsequence-based Active Learning for Named Entity Recognition [Coming soon] <br>
+  Yang Liu, **Jinpeng Hu**, Zhihong Chen, Xiang Wan and Tsung-Hui Chang <br>
+  AAAI 2023
+  
 * Hero-Gang Neural Model For Named Entity Recognition [[pdf](https://arxiv.org/pdf/2205.07177.pdf)] <br>
   **Jinpeng Hu**, Yaling Shen, Yang Liu, Xiang Wan and Tsung-Hui Chang <br>
   NAACL 2022 
