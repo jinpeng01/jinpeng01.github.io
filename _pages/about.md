@@ -39,7 +39,7 @@ Publications
   Findings of ACL 2023 
 
 * A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER-camera-ready [Coming soon] <br>
-  **Jinpeng Hu**, DanDan Guo, Yang Liu1, Zhuo Li, Zhihong Chen, Xiang Wan, Tsung-Hui Chang <br>
+  **Jinpeng Hu**, DanDan Guo, Yang Liu, Zhuo Li, Zhihong Chen, Xiang Wan, Tsung-Hui Chang <br>
   AAAI 2023
 
 * EASAL: Entity-Aware Subsequence-based Active Learning for Named Entity Recognition [Coming soon] <br>
