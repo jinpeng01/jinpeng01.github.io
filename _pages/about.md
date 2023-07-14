@@ -34,15 +34,15 @@ Publications
   **Jinpeng Hu**, Zhihong Chen, Yang Liu, Xiang Wan and Tsung-Hui Chang <br>
   Findings of ACL 2023 
 
-* Improving Grammatical Error Correction with Multimodal Feature Integration. [Coming soon] <br>
+* Improving Grammatical Error Correction with Multimodal Feature Integration. [[pdf](https://aclanthology.org/2023.findings-acl.594.pdf)] <br>
   Tao Fang, **Jinpeng Hu**, Derek F. Wong, Xiang Wan, Lidia S. Chao and Tsung-Hui Chang <br>
   Findings of ACL 2023 
 
-* A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER-camera-ready [Coming soon] <br>
+* A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26515)] <br>
   **Jinpeng Hu**, DanDan Guo, Yang Liu, Zhuo Li, Zhihong Chen, Xiang Wan, Tsung-Hui Chang <br>
   AAAI 2023
 
-* EASAL: Entity-Aware Subsequence-based Active Learning for Named Entity Recognition [Coming soon] <br>
+* EASAL: Entity-Aware Subsequence-based Active Learning for Named Entity Recognition [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26069)] <br>
   Yang Liu, **Jinpeng Hu**, Zhihong Chen, Xiang Wan and Tsung-Hui Chang <br>
   AAAI 2023
   
