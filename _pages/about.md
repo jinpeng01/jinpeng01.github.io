@@ -12,12 +12,12 @@ redirect_from:
 
 About me
 ======
-I am a four-year Ph.D. student at The Chinese University of Hong Kong, Shenzhen, supervised by [Prof.Xiang Wan](https://sds.cuhk.edu.cn/teacher/406) and [Prof.Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home). 
+I am an Associate Professor at Hefei University of Technology. I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof.Xiang Wan](https://sds.cuhk.edu.cn/teacher/406) and [Prof.Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home). 
 Before that, I received a master’s degree in computer science and technology from Harbin Institute of Technology, supervised by [Prof.Yi Guan](http://homepage.hit.edu.cn/guanyi).
 
 Research Interests
 ======
-Summarization, Named Entity Recognition, and Natural Language Processing
+Multimodal, Large Language Model, Summarization, Named Entity Recognition, and Natural Language Processing
 
 News
 ======
