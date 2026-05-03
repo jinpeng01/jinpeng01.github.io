@@ -64,9 +64,10 @@ Chongyuan Dai, Yaling Shen, **Jinpeng Hu**, Zihan Gao, Jia Li, Yishun Jiang, Yax
 
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/psyche_r1.png' alt='sym' width='100%'></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 **Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**
 
