@@ -65,7 +65,7 @@ Chongyuan Dai, Yaling Shen, **Jinpeng Hu**, Zihan Gao, Jia Li, Yishun Jiang, Yax
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/psyche_r1.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/psyche_r1.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**
@@ -79,7 +79,7 @@ Chongyuan Dai, **Jinpeng Hu**, Hongchang Shi, Zhuo Li, Xun Yang, Meng Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/psychethics.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/psychethics.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics**
@@ -107,7 +107,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/agentmental.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/agentmental.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AgentMental: An Interactive Multi-Agent Framework for Explainable and Adaptive Mental Health Assessment**
@@ -123,7 +123,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 ## 2025
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/papers/emotion_bench.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/papers/emotion_bench.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark**
@@ -139,7 +139,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 ## 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2024</div><img src='images/papers/psycollm.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2024</div><img src='images/papers/psycollm.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation**
@@ -155,7 +155,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 ## 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2023</div><img src='images/papers/radiology_acl23.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2023</div><img src='images/papers/radiology_acl23.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improving Radiology Summarization with Radiograph and Anatomy Prompts**
@@ -169,7 +169,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2023</div><img src='images/papers/gec_acl23.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2023</div><img src='images/papers/gec_acl23.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improving Grammatical Error Correction with Multimodal Feature Integration**
@@ -213,7 +213,7 @@ Yang Liu, **Jinpeng Hu**, Zhihong Chen, Xiang Wan, Tsung-Hui Chang
 
 ## 2022
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2022</div><img src='images/papers/herogang.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2022</div><img src='images/papers/herogang.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hero-Gang Neural Model For Named Entity Recognition**
@@ -299,7 +299,7 @@ Yang Liu, **Jinpeng Hu**, Xiang Wan, Tsung-Hui Chang
 
 ## 2021
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2021</div><img src='images/papers/word_graph_radiology.pdf' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2021</div><img src='images/papers/word_graph_radiology.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Word Graph Guided Summarization for Radiology Findings**
