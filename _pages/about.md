@@ -32,10 +32,12 @@ My research interests include **Multimodal Affective Computing**, **AI in Mental
 - **[2026.01]** 🎉 One paper accepted to **AAAI 2026**!
 - **[2025.09]** 🎉 Three papers accepted to **EMNLP 2025**!
 - **[2025.07]** 🎉 One paper accepted to **ACM MM 2025**!
-- **[2024]** One paper accepted to **TCSS 2024**.
-- **[2023]** Two papers accepted to **ACL 2023**; Two papers accepted to **AAAI 2023**.
-- **[2022]** Three papers accepted to **NAACL 2022**; Two papers accepted to **ACL 2022**.
-- **[2021]** One paper accepted to **ACL 2021**.
+- **[2024]** One paper accepted to **TCSS 2024**!
+- **[2023]** Two papers accepted to **ACL 2023**!
+- **[2023]** Two papers accepted to **AAAI 2023**!
+- **[2022]** Three papers accepted to **NAACL 2022**!
+- **[2022]** Two papers accepted to **ACL 2022**!
+- **[2021]** One paper accepted to **ACL 2021**!
 
 ---
 
