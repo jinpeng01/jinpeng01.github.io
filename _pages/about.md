@@ -106,7 +106,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 *WWW 2026 (oral)*
 
-\[[PDF](#)\]
+\[[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792594)\] \[[Code](https://github.com/MindIntLab-HFUT/AdaDepression)\]
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 *AAAI 2026*
 
-\[[PDF](#)\]
+\[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40365)\] \[[Code](https://github.com/MindIntLab-HFUT/AgentMental)\]
 
 </div>
 </div>
@@ -136,7 +136,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 *ACM MM 2025*
 
-\[[PDF](#)\]
+\[[PDF](https://dl.acm.org/doi/abs/10.1145/3746027.3755726)\] \[[Code](https://github.com/MindIntLab-HFUT/MTMEUR)\]
 
 </div>
 </div>
@@ -152,7 +152,7 @@ Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
 
 *IEEE Transactions on Computational Social Systems, 2024*
 
-\[[PDF](#)\]
+\[[PDF](https://ieeexplore.ieee.org/abstract/document/10772313/)\] \[[Code](https://github.com/MindIntLab-HFUT/PsycoLLM)\]
 
 </div>
 </div>
