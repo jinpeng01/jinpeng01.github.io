@@ -146,7 +146,7 @@ Yangyang Xu, **Jinpeng Hu***, Peipei Song, Zhangling Duan, Xun Yang
 
 **Add-One-In: Incremental Sample Selection for Large Language Models via a Choice-Based Greedy Paradigm**
 
-Zhuo Li, Yuhao Du, Xiaoqi Jiao, Steven Y. Guo, Yuege Feng, Xiang Wan, Anningzhe Gao, **Jinpeng Hu**
+Zhuo Li, Yuhao Du, Xiaoqi Jiao, Steven Y. Guo, Yuege Feng, Xiang Wan, Anningzhe Gao, **Jinpeng Hu***
 
 *EMNLP 2025*
 
@@ -160,7 +160,7 @@ Zhuo Li, Yuhao Du, Xiaoqi Jiao, Steven Y. Guo, Yuege Feng, Xiang Wan, Anningzhe 
 
 **MultiAgentESC: A LLM-based Multi-Agent Collaboration Framework for Emotional Support Conversation**
 
-Yangyang Xu, **Jinpeng Hu**, Zhuoer Zhao, Zhangling Duan, Xiao Sun, Xun Yang
+Yangyang Xu, **Jinpeng Hu***, Zhuoer Zhao, Zhangling Duan, Xiao Sun, Xun Yang
 
 *EMNLP 2025*
 
