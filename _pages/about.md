@@ -141,6 +141,62 @@ Yangyang Xu, **Jinpeng Hu***, Peipei Song, Zhangling Duan, Xun Yang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/addonein.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Add-One-In: Incremental Sample Selection for Large Language Models via a Choice-Based Greedy Paradigm**
+
+Zhuo Li, Yuhao Du, Xiaoqi Jiao, Steven Y. Guo, Yuege Feng, Xiang Wan, Anningzhe Gao, **Jinpeng Hu**
+
+*EMNLP 2025*
+
+[[PDF](https://aclanthology.org/2025.emnlp-main.270.pdf)] [[Code](https://github.com/BIRlz/comperative_sample_selection)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/multiagentesc.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MultiAgentESC: A LLM-based Multi-Agent Collaboration Framework for Emotional Support Conversation**
+
+Yangyang Xu, **Jinpeng Hu**, Zhuoer Zhao, Zhangling Duan, Xiao Sun, Xun Yang
+
+*EMNLP 2025*
+
+[[PDF](https://aclanthology.org/2025.emnlp-main.232.pdf)] [[Code](https://github.com/MindIntLab-HFUT/MultiAgentESC)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/aplot.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**APLOT: Robust Reward Modeling via Adaptive Preference Learning with Optimal Transport**
+
+Zhuo Li, Yuege Feng, Dandan Guo, **Jinpeng Hu**, Anningzhe Gao, Xiang Wan
+
+*EMNLP 2025*
+
+[[PDF](https://aclanthology.org/2025.emnlp-main.281.pdf)] [[Code](https://github.com/BIRlz/APLOT)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/selfprompt.png' alt='sym' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Self-Instructed Derived Prompt Generation Meets In-Context Learning: Unlocking New Potential of Black-Box LLMs**
+
+Zhuo Li, Yuhao Du, **Jinpeng Hu**, Xiang Wan, Anningzhe Gao
+
+*ACL 2025*
+
+[[PDF](https://aclanthology.org/2025.acl-long.92.pdf)] [[Paper](https://aclanthology.org/2025.acl-long.92/)]
+
+</div>
+</div>
+
 ## 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2024</div><img src='images/papers/psycollm.png' alt='sym' width='100%'></div></div>
