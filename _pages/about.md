@@ -331,6 +331,7 @@ Yang Liu, **Jinpeng Hu**, Xiang Wan, Tsung-Hui Chang
 # 📣 Services
 
 - Reviewer for ACL, EMNLP, NAACL, AAAI, ACM MM, IEEE TCSS, etc.
+- Area Chair: ACL Rolling Review (2025, 2026)
 
 ---
 
