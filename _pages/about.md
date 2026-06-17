@@ -74,7 +74,7 @@ Chongyuan Dai, Yaling Shen, **Jinpeng Hu**, Zihan Gao, Jia Li, Yishun Jiang, Yax
 
 **Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**
 
-Chongyuan Dai, **Jinpeng Hu**, Hongchang Shi, Zhuo Li, Xun Yang, Meng Wang
+Chongyuan Dai, **Jinpeng Hu***, Hongchang Shi, Zhuo Li, Xun Yang, Meng Wang
 
 *ACL 2026*
 
@@ -88,7 +88,7 @@ Chongyuan Dai, **Jinpeng Hu**, Hongchang Shi, Zhuo Li, Xun Yang, Meng Wang
 
 **PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics**
 
-Yaling Shen, Stephanie Fong, Yiwen Jiang, Zimu Wang, Feilong Tang, Qingyang Xu, Xiangyu Zhao, Zhongxing Xu, Jiahe Liu, **Jinpeng Hu**, et al.
+Yaling Shen, Stephanie Fong, Yiwen Jiang, Zimu Wang, Feilong Tang, Qingyang Xu, Xiangyu Zhao, Zhongxing Xu, Jiahe Liu, **Jinpeng Hu***, Dominic Dwyer, Zongyuan Ge
 
 *Findings of ACL 2026*
 
@@ -102,7 +102,7 @@ Yaling Shen, Stephanie Fong, Yiwen Jiang, Zimu Wang, Feilong Tang, Qingyang Xu, 
 
 **From Social Media to Psychological Scale: An Adaptive Framework with Two-Hop Retrieval for Depression Screening**
 
-Yangyang Xu, **Jinpeng Hu**, Peipei Song, Zhangling Duan, Xun Yang
+Yangyang Xu, **Jinpeng Hu***, Peipei Song, Zhangling Duan, Xun Yang
 
 *WWW 2026 (oral)*
 
