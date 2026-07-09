@@ -54,20 +54,19 @@ My research interests include **Multimodal Affective Computing**, **AI in Mental
 
 ## 2026
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/tears_or_cheers.png' alt='sym' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/tears_or_cheers.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses**
 
-Chongyuan Dai, Yaling Shen, **Jinpeng Hu**, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge
+Chongyuan Dai, Yaling Shen, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge, **Jinpeng Hu***
 
 *ACL 2026*
 
-\[[PDF](https://arxiv.org/abs/2601.13024)\]
+\[[PDF](https://aclanthology.org/2026.acl-long.1769/)\] \[[Code](https://github.com/MindIntLab-HFUT/CEDAR)\]
 
 </div>
 </div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/psyche_r1.png' alt='sym' width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
