@@ -61,7 +61,7 @@ My research interests include **Multimodal Affective Computing**, **AI in Mental
 
 Chongyuan Dai, Yaling Shen, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge, **Jinpeng Hu***
 
-*ACL 2026 SAC highlight*
+<span style="color:red;"><strong>ACL 2026 SAC highlight</strong></span>
 
 
 \[[PDF](https://aclanthology.org/2026.acl-long.1769/)\] \[[Code](https://github.com/MindIntLab-HFUT/CEDAR)\]
